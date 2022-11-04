@@ -15,22 +15,22 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• No Telp Telp Blok`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : WH-MODS-Dev
-${htjava} *✉️ Nama RL* : HAMBA ALLAH
-${htjava} *♂️ Gender* : Boys
+${htjava} *💌 Nama* : ARAA-BOTZ-MD
+${htjava} *✉️ Nama RL* : CINTAI USUSMU
+${htjava} *♂️ Gender* : Cewe
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 18
-${htjava} *🧮 Kelas* : SUDAH TAMAT
+${htjava} *🎨 Umur* : ytta🤭😜
+${htjava} *🧮 Kelas* : TEBAK CUYY😏
 ${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, Depok, Jawa Barat
-${htjava} *❤️ Waifu* : -
+${htjava} *🗺️ Tinggal* : Indo, Rangkas, Lebak, Banten
+${htjava} *❤️ Husbu* : Killua termuah muah😍💐
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
